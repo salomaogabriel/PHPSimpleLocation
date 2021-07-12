@@ -1,0 +1,13 @@
+[{"id":2001,"name":"Berat"},
+{"id":2002,"name":"Dibër"},
+{"id":2003,"name":"Durrës"},
+{"id":2004,"name":"Elbasan"},
+{"id":2005,"name":"Fier"},
+{"id":2006,"name":"Gjirokastër"},
+{"id":2007,"name":"Korçë"},
+{"id":2008,"name":"Kukës"},
+{"id":2009,"name":"Lezhë"},
+{"id":2010,"name":"Shkodër"},
+{"id":2011,"name":"Tirana"},
+{"id":2012,"name":"Vlorë"}
+]
