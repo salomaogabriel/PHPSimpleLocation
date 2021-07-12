@@ -17,6 +17,7 @@
     <select  id="state-select" name="state">
     <option value="0">Select a state</option>`
     </select>
+    <button>Random Location</button>
     <script type="text/javascript" src="main.js"></script>
  
 </body>
